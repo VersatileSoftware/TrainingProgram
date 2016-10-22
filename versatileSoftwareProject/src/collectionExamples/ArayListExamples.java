@@ -67,7 +67,7 @@ public class ArayListExamples {
 		queueA.add("element 1");
 		queueA.add("element 2");
 
-		// access via Iterator
+		// access via Iterator r
 		Iterator iterator = queueA.iterator();
 		while (iterator.hasNext()) {
 			String element = (String) iterator.next();
@@ -83,3 +83,4 @@ public class ArayListExamples {
 	}
 
 }
+//editied by Raajh
